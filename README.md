@@ -6,3 +6,4 @@
 ## 远程桌面以及文件共享教程  
 [开启windows远程桌面](https://jingyan.baidu.com/article/5225f26b06c55ce6fb09084b.html)  
 [远程桌面文件共享](https://jingyan.baidu.com/article/358570f65f64d0ce4724fc99.html)  
+[多用户同时远程桌面设置](https://jingyan.baidu.com/article/154b463178aec928cb8f416d.html)
