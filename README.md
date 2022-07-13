@@ -11,4 +11,5 @@
 [公网远程连接](http://bs24624780.wicp.vip:22696/)  
 ## Windows服务器
 [spark集群在windows下搭建](https://blog.csdn.net/dongtest/article/details/103084936?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-23-103084936-null-null.pc_agg_new_rank&utm_term=%E4%B8%89%E5%8F%B0%E7%94%B5%E8%84%91%E6%90%AD%E5%BB%BAwindows10%E9%9B%86%E7%BE%A4&spm=1000.2123.3001.4430)   
-[spark windows安装](https://zhuanlan.zhihu.com/p/406008198)
+[spark windows安装](https://zhuanlan.zhihu.com/p/406008198)  
+[PBS脚本模板](https://blog.csdn.net/MurphyStar/article/details/106787063)
